@@ -9,12 +9,12 @@ URL: http://ec2-52-41-99-24.us-west-2.compute.amazonaws.com
 ### Summary of configuration changes made
 ##### Followed the Project Details provided in the Udacity Linux Configuration - Project Details page
 
-Get your server.
+#### Get your server.
 
 1. Start a new Ubuntu Linux server instance on Amazon Lightsail. There are full details on setting up your Lightsail instance on the next page.
 2. Follow the instructions provided to SSH into your server.
 
-Secure your server.
+#### Secure your server.
 
 3. Update all currently installed packages.
 
@@ -56,7 +56,7 @@ Secure your server.
     
         https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys--2
 
-Prepare to deploy your project.
+#### Prepare to deploy your project.
 
 9. Configure the local timezone to UTC.
 
